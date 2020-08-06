@@ -8,4 +8,7 @@ ellipse(350,250,200,200);
 fill(#4FB449,150);
 ellipse(300,150,200,200);
 fill(0,0,0);
-text("Energetic", 275, 110);
+textSize(20);
+text("Energetic", 257, 130);
+text("Helpful", 170,275);
+text("Funny", 375, 275);
