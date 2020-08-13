@@ -7,7 +7,6 @@ import javax.swing.JOptionPane;
 public class TheRiddler {
 
 	public static void main(String[] args) {
-	System.out.println("Google");
 		
 		int score = 0;
 
